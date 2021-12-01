@@ -1,2 +1,2 @@
 # Phython_Project_Course
-repository for notebooks from the course
+repository for jupyter notebooks from the course
